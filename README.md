@@ -1,2 +1,2 @@
-# Projects
-default repository for SJTU courses of zdy
+# Legacy projects in 2021
+SJTU courses materials in 2021
